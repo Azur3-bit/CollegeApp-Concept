@@ -1,0 +1,349 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 3rem;
+    line-height: 1.5;
+
+}
+
+h2 {
+    line-height: 2.5rem;
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+p {
+    text-align: auto;
+
+}
+
+.navbar {
+    padding-bottom: 5%;
+    padding-left: 0px;
+}
+
+.nav-item {
+    font-family: 'Montserrat', sans-serif;
+    padding-right: 15px;
+
+
+}
+
+.navbar-brand {
+    font-family: 'Ubuntu';
+    font-size: 2.25rem;
+    font-weight: bold;
+}
+
+.container-fluid {
+    padding: 3% 15%;
+    padding-bottom: 0px;
+}
+
+#title {
+    background-color: black;
+
+}
+
+.download-Button {
+    margin: 5% 3%;
+}
+
+.testimonial-image123 {
+    padding-right: 25px;
+    padding-left: 25px;
+    padding-bottom: 50px;
+}
+
+.iphone-Image-2 {
+    /* width: 60%; */
+    transform: rotate(-100deg);
+    position: relative;
+    z-index: 0;
+    padding-bottom: 400px;
+    margin-bottom: 40px;
+    padding-top: 0px;
+    /* y: index 30px;; */
+    /* left: 20%; */
+}
+
+#features {
+    margin-top: 0px;
+    padding-top: 10%;
+    padding-bottom: 0px; 
+    background-color: black;
+
+
+    position: relative;
+    z-index: 1;
+    margin-bottom: 0px;
+    
+
+}
+
+#testimonials {
+    padding-bottom: 5%;
+    text-align: center;
+    background-color: #ff4c68;
+    padding-top: 5%;
+    height: 600px;
+}
+
+
+#press {
+    background-color: #ff4c68;
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.carousel-item {
+    padding-right: 17.5%;
+    padding-left: 17.5%;
+}
+
+#pricing {
+    background-color: #146C94;
+    padding: 100px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+.pricing-coloum {
+    padding-top: 2%;
+}
+
+#Woof {
+    color: black;
+    line-height: 3rem;
+    margin-bottom: 50px;
+}
+
+.phtoOnTop {
+    background-color: white;
+}
+
+.Cta-main {
+
+    background-color: #ff4c68;
+    text-align: center;
+    padding-bottom: 0px;
+    /* line-height: 2rem; */
+
+}
+
+.Cta {
+
+    padding: 7% 10%;
+    padding-top: 30px;
+    padding-bottom: 0px;
+    text-align: center;
+
+}
+
+
+#footer {
+    background-color: #ff4c68;
+    text-align: center;
+    padding-bottom: 10px;
+    line-height: 2rem;
+}
+
+.image-footer {
+    margin: 5px;
+    font-size: 25px;
+}
+
+.icon-offset {
+    padding: 5px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+
+}
+
+.offset-min {
+    margin-top: 0px;
+    margin-bottom: 100px;
+}
+
+
+.padding_Down_NOW {
+    padding-top: 10%;
+    padding-bottom: 8%;
+
+}
+
+
+.phtoOnTop {
+    background-color: black;
+    color: white;
+}
+
+.HorizontalRule-Bottom {
+    border: solid white;
+    padding-top: 3%;
+    line-height: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    border-top-width: 0px;
+    border-bottom-width: 1px;
+    border-right-width: 0px;
+    border-left-width: 0px;
+
+
+}
+
+.HorizontalRule {
+    border: solid white;
+    padding-bottom: 4%;
+    line-height: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    border-top-width: 1px;
+    border-bottom-width: 0px;
+    border-right-width: 0px;
+    border-left-width: 0px;
+
+
+}
+
+
+/* .iphone-Image{
+    height: 100%;
+} */
+
+.Word-From-dev-Left {
+    padding-left: 10rem;
+    margin-top: 50px;
+    padding-top: 10px; 
+    padding-bottom: 10px;
+}
+.Word-From-dev-Right{
+    padding-bottom: 50px;
+}
+
+.Ubuntu-Font {
+    font-family: 'Ubuntu', sans-serif;
+    line-height: 1.75rem;
+    font-weight: bold;
+}
+
+.Word-Form-dev-Image {
+    height: 100px;
+}
+
+.testimonial-image123 {
+    height: 130px;
+    /* padding-top: 10; */
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+#newsletter {
+    padding: 50px 0;
+}
+
+#newsletter h2 {
+    color: #fff;
+    font-size: 36px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+#newsletter form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#newsletter label {
+    color: black;
+    font-size: 18px;
+}
+
+#newsletter input {
+    background-color: #ff4c68;
+    border-color: #ff4c68;
+    color: whitesmoke;
+    font-size: 18px;
+}
+
+#newsletter input::placeholder {
+    color: black;
+}
+
+#newsletter button {
+    background-color: #f00;
+    border-color: #f00;
+    font-size: 18px;
+    margin-left: 10px;
+}
+
+#newsletter button:hover {
+    background-color: #d00;
+    border-color: #d00;
+}
+
+
+.hr-Newsletter {
+    border: dotted black;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    border-bottom-width: 0px;
+    /* border-top-width: 10px; */
+    border-top-width: 10px;
+    padding-bottom: 50px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+    width: 4%;
+
+}
+
+
+@media (max-width: 1028px) {
+    .iphone-Image-2 {
+        position:static;
+        transform: rotate(-90deg);
+        padding-bottom: 0px;
+        margin-right: 100%;
+        /* z-index: -1; */
+    }
+
+    #title {
+        text-align: center;
+    }
+
+    #features{
+        z-index: -1;
+    }
+    .KartaDharta{
+        padding-left: 10rem;
+
+    }
+
+    .testimonials{
+        font-size: small;
+
+    }
+    .Woof{
+        font-size: small;
+    }
+
+    .Word-From-dev-Left {
+        padding-left: 2rem;
+        padding-right: 2rem;
+        margin-top: 80px;
+        padding-top: 100px; 
+        padding-bottom: 10px;
+        
+    }
+
+
+
+}
